@@ -4,7 +4,7 @@
   "description": "GSW Standards",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch data.json"
+    "start": "json-server data.json"
   },
   "author": "Shani Sinojiya",
   "license": "ISC",
